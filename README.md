@@ -11,5 +11,5 @@ $> git clone https://github.com/buffalojs/nativescript-sample.git
 
 * Use this repo as a seed for your next project:
 ```
-$> tns create myapp --appid com.mydomain.myapp --copy-from ~/path/to/nativescript-sample
+$> tns create myapp --appid org.mydomain.myapp --copy-from ~/path/to/nativescript-sample/app/
 ```
